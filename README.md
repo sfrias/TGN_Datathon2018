@@ -12,6 +12,8 @@ Research activities for mimic-III, eicu, and icu23 medical databases
 * Laia Labad: Clinician, 
 * Santiago Frias: Data Scientist / Statistics-Models
 
+# ScatterPlot of id patient numbers (x axis) to timestamp events (y axis)
+
 ![alt text](https://github.com/sfrias/TGN_Datathon2018/blob/master/PatientShockSepticMore3d.png)
 
 
