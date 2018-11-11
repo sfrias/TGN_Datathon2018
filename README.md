@@ -12,6 +12,6 @@ Research activities for mimic-III, eicu, and icu23 medical databases
 * Laia Labad: Clinician, 
 * Santiago Frias: Data Scientist / Statistics-Models
 
-
+![alt text](https://github.com/sfrias/TGN_Datathon2018/blob/master/Landing03.png)
 
 
